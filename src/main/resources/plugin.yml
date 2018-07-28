@@ -1,0 +1,4 @@
+name: CloudPlugin
+main: de.ratzed.cloudplugin.CloudPlugin
+version: 0.1
+author: RatZed
